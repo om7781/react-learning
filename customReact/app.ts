@@ -42,4 +42,3 @@ const elements = [
 elements.map((element)=>{
     appendElement(element, root)
 })
-
